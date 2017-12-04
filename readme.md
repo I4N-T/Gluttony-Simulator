@@ -16,7 +16,9 @@ How to play:
 **Important Note: There seems to be some performance issues with the web build of the game. I recommend downloading the standalone if you want the TRUE glutton experience.  Select 800 x 600 resolution if prompted.**
 
 Play & Download: https://i4n-t.itch.io/gluttony-simulator
+
 Ludum Dare Page: https://ldjam.com/events/ludum-dare/40/gluttony-simulator
+
 Gameplay Video: https://youtu.be/0DNusu2jJl4
 
 Thank you for playing.
